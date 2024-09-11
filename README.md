@@ -1,5 +1,4 @@
 ### ✨ Hi! Aku Zidan Kusuma.
-
 Seorang mahasiswa informatika yang tertarik dengan teknologi pemrograman.
 
 ### 🌱 Sedang Mempelajari
