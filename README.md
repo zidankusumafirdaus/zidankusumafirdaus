@@ -1,6 +1,7 @@
 <h1 align="center">Hi! Aku Zidan Kusuma</h1>
-<h3 align="center">Seorang mahasiswa informatika yang tertarik dengan teknologi pemrograman. Saat ini sedang mempelajari</h3>
+<p align="center">Seorang mahasiswa informatika dari Universitas Muhammadiyah Sidoarjo</p>
 
+<h3 align="center">Saat ini sedang mempelajari</h3>
 <div align="center">
 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
