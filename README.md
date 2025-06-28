@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hi👋, I'm Zidan Kusuma</h1>
-  <p align="center">I'm an informatics students at Universitas Muhammadiyah Sidoarjo.</p>
+  <p align="center">An informatics students at Universitas Muhammadiyah Sidoarjo.</p>
 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
